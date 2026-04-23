@@ -1,6 +1,6 @@
+/*
 #include <iostream>
 
-/* 
 int soma(int a, int b) {
     int resultado = a + b;
 
@@ -22,17 +22,18 @@ int main() {
 
     return 0;
 }
-
 */
 
 //VERSÃO CORRIGIDA COM O TIPO DE DADO LONG LONG
+
+#include <iostream>
+
 
 long long soma(long long a, long long b) {
     long long resultado = a + b;
 
     return resultado;
 }
-
 
 
 int main() {

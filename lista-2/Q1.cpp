@@ -28,13 +28,11 @@ int main() {
 
 #include <iostream>
 
-
 long long soma(long long a, long long b) {
     long long resultado = a + b;
 
     return resultado;
 }
-
 
 int main() {
 
